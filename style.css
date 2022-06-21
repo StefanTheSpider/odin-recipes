@@ -1,3 +1,9 @@
+* {
+  font-size: 18px;
+  font-family: 'Poppins';
+  line-height: 2rem;
+}
+
 .container-1 {
   background-color: darkgray;
 }
@@ -13,7 +19,20 @@
  align-items: center;
 }
 
+.li-1:hover {
+  font-weight: 500;
+}
+
+.li-2:hover {
+  font-weight: 500;
+}
+
+.li-3:hover {
+  font-weight: 500;
+}
+
 .bild {
   width: 200px;
   height: 200px;
 }
+
